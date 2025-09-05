@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @themikemoniker
-- 📫 How to reach me @themikemoniker
-- ⚡
+- 👋 Hi, I’m mike
+- 📫 You can reach me on X | @themikemoniker
+- ⚡ Lightning/Bitcoin Maxi
 
 <!---
 themikemoniker/themikemoniker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
