@@ -53,7 +53,6 @@
 * ⚡ Lightning nodes (CLN / LND)
 * 🧾 Merchant POS & payments tooling
 * 🔐 Hardware wallets & self-custody
-* 🧪 Exploring privacy, inscriptions, and protocol-level ideas
 
 ```text
 Not your keys. Not your nodes. Not your infra.
